@@ -1,4 +1,4 @@
-A rainbow is an optical phenomonon where different frequencies of light are separated and appear as separate bands of colour.
+A rainbow is an optical phenomenon where different frequencies of light are separated and appear as separate bands of colour.
 
 The 7 bands of colour which are visible to the human eye are generally accepted as: -
 
@@ -9,3 +9,8 @@ Green
 Blue
 Indigo
 Violet
+
+These colours are the "visible" part of the sun's radiation. But there are many other parts that are not visible to the human eye.
+For example:
+- immediately below red is "infraRED"
+- immediately beyond violet is "ultraVIOLET" (UV)
